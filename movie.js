@@ -5,19 +5,19 @@
     "genres": ["comedy", "slice-of-life", "adventure"],
     "cast" : 
         [
-            {   name: Jeff Bridges,
-                character: Jeff Lebowski,
-                role: lead
+            {   "name": "Jeff Bridges",
+                "character" : "Jeff Lebowski",
+                "role" : "lead"
             },
 
-            {   name:John Goodman,
-                character: Walter Sobchak,
-                role: supporting
+            {   "name" : "John Goodman",
+                "character": "Walter Sobchak",
+                "role": "supporting"
             },
                 
-            {   name: Steve Buscemi,
-                character: Donny Kerabatsos,
-                role: supporting
+            {   "name": "Steve Buscemi",
+                "character": "Donny Kerabatsos",
+                "role": "supporting"
             }
         ],
 };
